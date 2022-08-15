@@ -12,6 +12,7 @@
     --main-green: #275f08;
     --fw-regular: 400;
     --fw-bold: 800;
+    color-scheme: only light;
 }
 
 /*body {
