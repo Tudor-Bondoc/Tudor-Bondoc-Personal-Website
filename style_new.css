@@ -24,7 +24,7 @@
 .main {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
-    background-color: white;
+    background-color: white !important;
     scroll-behavior: smooth;
 }
 
