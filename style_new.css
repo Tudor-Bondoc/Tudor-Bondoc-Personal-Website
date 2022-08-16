@@ -15,16 +15,16 @@
     color-scheme: only light;
 }
 
-body {
+/*body {
     background-image: url("images/white.jpg");
     background-size: cover;
     background-attachment: fixed;
-}
+}*/
 
 .main {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
-    /*background-color: white !important;*/
+    background-color: white !important;
     scroll-behavior: smooth;
 }
 
