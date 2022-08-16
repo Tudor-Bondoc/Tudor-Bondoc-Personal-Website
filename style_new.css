@@ -451,8 +451,11 @@
         height: auto;
     }
 
-    
+}
 
-
-
+@media (max-width: 400px) {
+    .up {
+        width: 35px;
+        height: auto;
+    }
 }
